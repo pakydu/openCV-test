@@ -1,7 +1,7 @@
 import cv2
 
 # 读取图片
-image = cv2.imread("cc4e23eb96b5bc350c0ce182a56ddc52.jpg")  # 替换为你的图片路径
+# image = cv2.imread("cc4e23eb96b5bc350c0ce182a56ddc52.jpg")  # 替换为你的图片路径
 
 # 打开视频文件
 # video_path = "1.mp4"  # 替换为你的视频路径
